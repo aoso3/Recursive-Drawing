@@ -1,5 +1,5 @@
 # Recursive-Drawing-using-.NET
-Recursive Drawing
+Recursive Drawing using .NET
 
 ![Alt text](Screenshots/rec.PNG?raw=true "Rec Drawing")
 
